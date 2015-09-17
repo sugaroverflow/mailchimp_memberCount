@@ -1,5 +1,6 @@
 ##Mailchimp Member count
-This is a quick python script that parses your Mailchimp API call (for a particular list) for the subscriber count and returns it.
+This is a quick python script that parses your Mailchimp API call (for a particular list)
+and returns the # of subscribers 
 
 ####Built on
 Uses the [urllib2](https://docs.python.org/2/library/urllib2.html) and [json](https://docs.python.org/2/library/json.html) python libraries.

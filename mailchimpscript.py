@@ -22,4 +22,4 @@ print "The subscriber count: " + str(subcount) #outputs to the terminal
 #note the subcount is a int value
 #you can return it in whatever form is meaningful to you
 #for example if you just want the script to send you the integer value:
-#return subcount
+return subcount

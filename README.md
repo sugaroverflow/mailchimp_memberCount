@@ -1,4 +1,4 @@
-#Mailchimp Member count
+##Mailchimp Member count
 This is a quick python script that parses your Mailchimp API call (for a particular list) for the subscriber count and returns it.
 
 ####Built on
